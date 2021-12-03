@@ -1,7 +1,7 @@
 export default () => {
     return (
         <>
-        <h1>はじめてのポスト</h1>
+        <p class="font-bold">はじめてのポスト</p>
         </>
     )
 }
